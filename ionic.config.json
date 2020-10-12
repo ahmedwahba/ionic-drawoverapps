@@ -1,5 +1,7 @@
 {
   "name": "drawoverapp-tmp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
